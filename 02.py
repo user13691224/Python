@@ -1,4 +1,7 @@
-numA=30
-numB=20
-resultado=numA+numB
-print(resultado)
+nombre="Oscar"
+bienvenida=f"Hola {nombre} "
+if nombre in bienvenida:
+
+    print(True)
+    
+    

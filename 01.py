@@ -4,7 +4,7 @@ def factorial(a):
     for i in range(1,a+1):
         b*=i
     return b
-hola= factorial(0)
+hola= "hola"
 print(hola)
 print("aproximación de seno")
 
@@ -17,3 +17,4 @@ print("Ingrese un número")
 s=float(input())
 se=sen(s)
 print(se)
+print("Recuerda no olvidar")
