@@ -1,7 +1,9 @@
-nombre="Oscar"
-bienvenida=f"Hola {nombre} "
-if nombre in bienvenida:
+diccionario={
+    "hola":"uni",
+    "uno":'dos',
+    "tres":"tres"
+}
+numero=len(diccionario)
 
-    print(True)
-    
-    
+print(diccionario["hola"])
+print(numero)

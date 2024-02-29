@@ -1,0 +1,27 @@
+dir(devuelve la lista de atributos válidos del objeto pasado)
+PARA CADENAS:
+    upper, lower capitaliza, find, index, isnumeric, isalpha, isalnum,count, len(función),endswith, startswith, replace, with
+PARA LISTAS:
+    list([]), append, insert(índice), extend([varios elementos]), pop(índice),remove(elemento), clear, sort, reverse
+PARA DICCIONARIOS (CLAVE:valor)
+    keys() devuelve las claves
+    get() devuelve el valor de una clave
+    pop() elimina un elemento
+    items() para iterar el dict
+Métodos variable.metodo()
+
+tuple(), list(), dict(), set()
+tupla= "hola","bien" también vale como tupla (no se usa paréntesis)
+tupla "hola",
+.add()
+frozenset(función que crea un conjunto inmutable)
+puede servir para poner el conjunto inmutable dentro de otro conjunto
+.uptade()
+subconjunto.issubset(conjunto)= True
+subconjunto<= conjunto== True
+conjunto.issuperset(subconjunto)= True
+conjunto > subconjunto
+.isdisjoint()  para ver si son disjuntos
+diccionario = dict(nombre = "Oscar", apellido= "Arhuata")
+las tuplas pueden ser claver; las listas y conjuntos no
+las frozenset, sí
